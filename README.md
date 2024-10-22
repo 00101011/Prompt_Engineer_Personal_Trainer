@@ -98,3 +98,45 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 "Baseado no biotipo [ECTOMORFO/MESOMORFO/ENDOMORFO], com uma disponibilidade de [X] dias por semana, e com preferência por [TIPO DE EXERCÍCIO], o plano de treino ideal deve incluir [DETALHES DO TREINO ESPECÍFICO]. Para alcançar o objetivo de [OBJETIVO], recomenda-se seguir um treino [TIPO DE TREINO] combinado com [OUTRO EXERCÍCIO]."
 
 Esse prompt gera uma resposta que considera todos os fatores inseridos pelo usuário para oferecer um plano de treino personalizado.
+
+---
+
+## 🎯 Prompt de Resposta Aprimorado
+
+"Com base nas características fornecidas, identificamos que seu biotipo é [ECTOMORFO/MESOMORFO/ENDOMORFO], o que indica que seu metabolismo tende a [PERFIL METABÓLICO], resultando em [FACILIDADE/DIFICULDADE] para [GANHAR MASSA/PERDER GORDURA]. Com uma disponibilidade de [X] dias por semana para treinos, a periodização ideal envolverá um plano dividido em fases de [ESTRATÉGIA DE TREINO], otimizando [DESENVOLVIMENTO MUSCULAR/DESEMPENHO/CONDICIONAMENTO CARDIOVASCULAR].
+
+Dado que você prefere realizar exercícios do tipo [FUNCIONAL/MAQUINÁRIO/PESO LIVRE/CARDIO/HIIT], será montado um plano com foco em [DETALHES DO EXERCÍCIO], priorizando [FORÇA, RESISTÊNCIA, MOBILIDADE] e integrando exercícios como [EXEMPLOS DE EXERCÍCIOS ESPECÍFICOS]. O treinamento será periodizado em [MICROCICLOS/MACROCICLOS], incorporando técnicas de sobrecarga progressiva para maximizar o ganho de [MASSA/RESISTÊNCIA/CAPACIDADE AERÓBICA] sem sobrecarregar o sistema muscular ou cardiovascular.
+
+Para atingir o objetivo de [GANHO DE MASSA/PERDA DE GORDURA/AUMENTO DE RESISTÊNCIA], o plano será estruturado da seguinte forma:
+
+Segunda a sexta-feira: Treinamento [FOCADO EM GRUPOS MUSCULARES ESPECÍFICOS, COM ÊNFASE NO DESENVOLVIMENTO FUNCIONAL E HIPERTROFIA].
+Sábado/Domingo: Atividades regenerativas como [CAMINHADAS/CARDIO LEVE/YOGA], otimizando a recuperação e prevenindo lesões.
+Além disso, estratégias complementares como [ESTRATÉGIAS NUTRICIONAIS] e [DESCANSO ADEQUADO] serão essenciais para maximizar os resultados. É altamente recomendado incorporar [MÉTODOS DE RECUPERAÇÃO] como [CRIOTERAPIA, MASSAGENS DESPORTIVAS] para garantir que seu corpo tenha o tempo necessário para se adaptar e crescer.
+
+Ao longo do plano, será realizada uma avaliação contínua de [METAS DE PERFORMANCE E COMPOSIÇÃO CORPORAL], ajustando o volume e a intensidade conforme necessário, garantindo assim a máxima eficiência e sustentabilidade no progresso. O uso de métodos de treinamento avançado como [DROP SETS/SUPERSETS/INTERVALOS DE ALTA INTENSIDADE] será incorporado nos treinos para acelerar seus resultados e otimizar o tempo disponível."
+
+---
+
+## 🎯Prompt adaptado para Claude 3
+
+" Baseado nas informações fornecidas, você é responsável por criar um plano de treino personalizado para o usuário. Aqui estão as informações que você deve considerar:
+
+- Biotipo do usuário: [ECTOMORFO/MESOMORFO/ENDOMORFO]
+- Dias disponíveis por semana para treinos: [NÚMERO DE DIAS]
+- Tipo de exercício preferido: [FUNCIONAL/MAQUINÁRIO/PESO LIVRE/CARDIO/HIIT]
+- Objetivo do usuário: [GANHAR MASSA/PERDER GORDURA/AUMENTAR RESISTÊNCIA]
+
+Com essas informações, crie uma resposta personalizada. Siga este modelo:
+
+1. **Biotipo**: Explique as características do biotipo corporal do usuário e como isso impacta o plano de treino.
+2. **Dias de treino**: Sugira um tipo de treino adequado ao número de dias disponíveis, como "Treino Full Body" (1 dia), "Treino ABC" (3 dias) ou "Treino ABCDE" (5 dias).
+3. **Tipo de exercício preferido**: Detalhe os benefícios do tipo de exercício escolhido pelo usuário e como ele será incorporado ao plano de treino.
+4. **Objetivo do usuário**: Propor um plano de treino específico focado no objetivo (ganhar massa, perder gordura ou aumentar resistência). Inclua recomendações extras, como exercícios complementares.
+
+Por exemplo:
+
+"Baseado no biotipo **Mesomorfo**, com uma disponibilidade de **5 dias por semana**, e com preferência por **Peso Livre**, o plano de treino ideal deve incluir uma divisão de treinos **ABCDE**, onde cada dia focará em um grupo muscular diferente. Para alcançar o objetivo de **Ganhar Massa**, recomenda-se seguir um treino focado em **Hipertrofia**, utilizando sobrecarga progressiva em exercícios compostos como agachamentos, levantamento terra, e supino. Além disso, recomenda-se incorporar atividades regenerativas, como caminhadas leves e sessões de yoga para uma recuperação adequada."
+
+Responda utilizando esse modelo, ajustando os detalhes de acordo com as informações fornecidas."
+
+
